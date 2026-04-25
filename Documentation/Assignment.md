@@ -19,13 +19,9 @@ The submission for this lab is simply this document, with your responses filled 
 
 ### Part 1: First Program with STM32CubeIDE
 
-STM32 CubeIDE needs to be installed on your personal computer. Rather than go thru the instructions in this document, the first part of this lab is for you to replicate the steps shown in this YouTube video: [Getting Started with STM32 and Nucleo Part 1: Introduction to STM32CubeIDE and Blinky – Digi-Key - YouTube](https://www.youtube.com/watch?v=hyZS2p1tW-g&t=161s&ab_channel=DigiKey)
+STM32 CubeIDE needs to be installed on your personal computer. Rather than go thru the instructions in this document, the first part of this lab is for you to replicate the steps shown in this tutorial: [Getting Started with STM32](https://wiki.st.com/stm32mcu/wiki/Category:Getting_started_with_STM32). Work your way through both steps 1 and 2. If you feel ambitious and anxious to learn, you can try go through steps 3-5, but those require hardware that we do not have, so will not work right out of the box.
 
-![](media/687977049885398c93bbee0d6c79ebf5.png)
-
-Note that it may be easier for you to replicate the steps in this video by following the written instructions [HERE](https://www.digikey.com/en/maker/projects/getting-started-with-stm32-introduction-to-stm32cubeide/6a6c60a670c447abb90fd0fd78008697).
-
-When you complete the installation, and do the first “blinky” program, you should have a board that blinks the LED on/off. Experiment with the various toolbar buttons:
+When you complete the installation, and run the final program, you should have a board that blinks the LED on/off. Experiment with the various toolbar buttons:
 
 When completed answer the following questions. Add your answers by editing this file directly and committing it to your repository.  When completed with the lab, submit the URL to your repository as your assignment submission on Canvas.
 
